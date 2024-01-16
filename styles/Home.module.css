@@ -1,7 +1,13 @@
+.home{
+  background-color: white;
+  color: black;
+  height: 100vh;
+  width: 100vw;
+}
 .headingMd{
   font-size: 1.2rem;
   line-height: 1.5;
-
+  
 }
 
 .padding1px{
@@ -18,4 +24,12 @@
   list-style: none;
   margin: 0;
   padding: 0;
+}
+
+.listItem{
+  margin: 0 0 1.25rem;
+}
+
+.lightText{
+  color: #666;
 }
